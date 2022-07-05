@@ -1,14 +1,14 @@
 {
-  "main.css": "jhuergo.com/static/css/main.9fa5c9e3.chunk.css",
-  "main.js": "jhuergo.com/static/js/main.2f193706.chunk.js",
-  "main.js.map": "jhuergo.com/static/js/main.2f193706.chunk.js.map",
-  "runtime~main.js": "jhuergo.com/static/js/runtime~main.2bcf6cdb.js",
-  "runtime~main.js.map": "jhuergo.com/static/js/runtime~main.2bcf6cdb.js.map",
-  "static/js/2.926424c2.chunk.js": "jhuergo.com/static/js/2.926424c2.chunk.js",
-  "static/js/2.926424c2.chunk.js.map": "jhuergo.com/static/js/2.926424c2.chunk.js.map",
-  "index.html": "jhuergo.com/index.html",
-  "precache-manifest.15e8c12f6b17f67597756dce15bd5f82.js": "jhuergo.com/precache-manifest.15e8c12f6b17f67597756dce15bd5f82.js",
-  "service-worker.js": "jhuergo.com/service-worker.js",
-  "static/css/main.9fa5c9e3.chunk.css.map": "jhuergo.com/static/css/main.9fa5c9e3.chunk.css.map",
-  "static/media/logo.svg": "jhuergo.com/static/media/logo.06e73328.svg"
+  "main.css": "/static/css/main.9fa5c9e3.chunk.css",
+  "main.js": "/static/js/main.2f193706.chunk.js",
+  "main.js.map": "/static/js/main.2f193706.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.926424c2.chunk.js": "/static/js/2.926424c2.chunk.js",
+  "static/js/2.926424c2.chunk.js.map": "/static/js/2.926424c2.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.cab0e278b0ad746c335bc7cfd97ac6bc.js": "/precache-manifest.cab0e278b0ad746c335bc7cfd97ac6bc.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.9fa5c9e3.chunk.css.map": "/static/css/main.9fa5c9e3.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.06e73328.svg"
 }
