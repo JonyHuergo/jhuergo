@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -9,14 +10,15 @@ function App() {
         <p>
           Jonathan Huergo Portfolio
         </p>
-        <a
+        <p>Made with <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          React
+        </a></p>
+        
       </header>
     </div>
   );
