@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #23262b;
+    vertical-align: middle;
+}
+
+.nav-element {
+    display: inline-block;
+    text-align: center;
+    font-size: calc(5px + 2vmin);
+    color: white;
+  }
+
+.nav-logo-element {
+    display: inline-block;
+    position: relative;
+    margin-right:80%;
+  }
+
+.nav-logo {
+    position: absolute;
+    height: 10vmin;
+    pointer-events: none;
+    margin-left:-100%;
+    margin-top:-100%;
+  }
+
+@media (prefers-reduced-motion: no-preference) {
+    .nav-logo {
+      animation: nav-logo-spin infinite 20s linear;
+    }
+  }
+
+@keyframes nav-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
