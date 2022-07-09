@@ -1,9 +1,11 @@
-.nav-container {
+
+.logo-container {
+    width: 10vw;
     background-color: #23262b;
     padding: 0;
     position: relative;
 }
-
+/*
 .nav-items {
   height: 100%;
   padding: 0;
@@ -20,23 +22,29 @@
     display: inline-block;
     position: relative;
     margin-right: 80%;
-  }
+  }*/
 
 .nav-logo {
-    position: absolute;
-    width: 1px;
-    pointer-events: none;
-    /*margin-left:-100%;
-    margin-top:-100%;*/
+  position: absolute;
+  top: -27px;
+  left: 0;
+  box-sizing: content-box;
+  width: 100px;
+  }
+
+.nav-logo-circle {
+  position: absolute;
+  box-sizing: content-box;
+  width: 100px;
   }
 
 @media (prefers-reduced-motion: no-preference) {
-    .nav-logo {
-      animation: nav-logo-spin infinite 20s linear;
+    .nav-logo-circle {
+      animation: nav-logo-circle-spin infinite 20s linear;
     }
   }
 
-@keyframes nav-logo-spin {
+@keyframes nav-logo-circle-spin {
     from {
       transform: rotate(0deg);
     }
