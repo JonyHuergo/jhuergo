@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './css/index.css';
 import App from './components/App';
+import "bootstrap/dist/css/bootstrap.css";
+import './css/index.css';
+import './css/App.css';
+import './css/Navbar.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
