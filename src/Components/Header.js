@@ -3,7 +3,7 @@ import logo from '../assets/logoReact.svg';
 
 function Header() {
   return (
-    <header className="App-header">
+    <header id="header" className="header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Jonathan Huergo Portfolio
