@@ -1,28 +1,9 @@
-
 .logo-container {
     width: 10vw;
     background-color: #23262b;
     padding: 0;
     position: relative;
 }
-/*
-.nav-items {
-  height: 100%;
-  padding: 0;
-}
-
-.nav-element {
-    display: inline-block;
-    text-align: center;
-    font-size: calc(5px + 2vmin);
-    color: white;
-  }
-
-.nav-logo-element {
-    display: inline-block;
-    position: relative;
-    margin-right: 80%;
-  }*/
 
 .nav-logo {
   position: absolute;
