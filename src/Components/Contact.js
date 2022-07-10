@@ -11,14 +11,6 @@ function Contact() {
           <p>
             Contacto
           </p>
-          <p>Made with <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React
-          </a></p>
         </Animator>
       </div>
     </ScrollPage>
