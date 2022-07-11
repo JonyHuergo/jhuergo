@@ -10,6 +10,7 @@ function Header() {
             <h1>Soy Jonathan Huergo,</h1>
             <h2>desarrollador Front End y estudiante de Ingeniería Informática</h2>
           </div>
+          <a href="#contact"><button type="button" class="btn btn-outline-primary contact-button">CONTACTAME</button></a>
         </Animator>
       </header>
     </ScrollPage>

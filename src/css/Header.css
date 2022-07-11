@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
 .App-logo {
     height: 40vmin;
     pointer-events: none;
@@ -27,6 +29,22 @@
   font-size: calc(7.5px + 2vw);
 }
   
+.contact-button {
+  margin-top: calc(5px + 4vw);
+  padding: 2% 1% 1% 1%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: calc(7.5px + 1.5vw);
+  color:#61dafb;
+  border-width: 2px;
+  border-color: #61dafb;
+}
+
+.contact-button:hover {
+  color:#282c34;
+  border-color: #61dafb;
+  background-color: #61dafb;
+}
+
 .App-link {
     color: #61dafb;
   }
