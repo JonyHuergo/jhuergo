@@ -25,6 +25,15 @@
     }
   }
 
+@media (max-width:991px) {
+    .nav-link:link, .nav-link:visited {
+      color: white;
+    }
+    .nav-link:active {
+      color: #61dafb;
+    }
+}​
+
 @keyframes nav-logo-circle-spin {
     from {
       transform: rotate(0deg);
