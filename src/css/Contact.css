@@ -1,15 +1,4 @@
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
-  }
-  
-  @media (prefers-reduced-motion: no-preference) {
-    .App-logo {
-      animation: App-logo-spin infinite 20s linear;
-    }
-  }
-  
-  .contact {
+.contact {
     background-color: #282c34;
     min-height: 100vh;
     display: flex;
@@ -19,16 +8,27 @@
     font-size: calc(10px + 2vmin);
     color: white;
   }
+
+.contact h2 {
+    font-size: calc(10px + 3vw);
+    padding-bottom: min(15vw, 250px);
+  }  
   
-  .App-link {
-    color: #61dafb;
-  }
+.contact legend {
+  font-size: calc(7.5px + 2vw);
+}
+
+.contact button {
+  font-size: calc(7px + 0.7vw);
+  background-color: #282c34;
+  color:#61dafb;
+  border-width: 2px;
+  border-color: #61dafb;
+}
+
+.contact button:hover {
+  color:#282c34;
+  border-color: #61dafb;
+  background-color: #61dafb;
+}
   
-  @keyframes App-logo-spin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
