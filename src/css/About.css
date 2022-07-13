@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+.photo {
+  height: 40vmin;
+}
+
+.about h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: calc(10px + 3vw);
+  padding-bottom: min(10vw, 250px);
+}  
+
+.about p {
+  text-align: justify;
+}
+
 .App-logo {
     height: 40vmin;
     pointer-events: none;

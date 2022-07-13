@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
 .contact-section {
   background-color: #282c34;
 }
@@ -14,6 +16,7 @@
   }
 
 .contact h2 {
+    font-family: 'Josefin Sans', sans-serif;
     font-size: calc(10px + 3vw);
     padding-bottom: min(10vw, 250px);
     padding-top: min(5vw, 175px);
